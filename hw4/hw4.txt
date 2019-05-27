@@ -1,0 +1,6 @@
+Class: A
+Netmask
+  CIDR:    /8
+  Base10:  255.0.0.0
+Gateway:   10.3.12.1
+Broadcast: 10.3.12.255
